@@ -1,0 +1,17 @@
+.dev{
+
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+h1{
+    color: brown;
+    position: absolute;
+    padding: 10px;
+}
+
+h2{
+
+    color: aqua;
+}
